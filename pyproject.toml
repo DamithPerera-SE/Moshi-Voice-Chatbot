@@ -1,0 +1,11 @@
+
+name = "Moshi Voice Chatbot"
+version = "0.1.0"
+description = "A real-time AI voice chatbot powered by **Kyutai Lab’s Moshi model**.  
+Speak into your microphone, and Moshi listens, reasons, and responds in natural voice almost instantly, using **stateful streaming speech-to-speech AI**."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "modal>=1.2.1",
+    "moshi>=0.2.11",
+]
